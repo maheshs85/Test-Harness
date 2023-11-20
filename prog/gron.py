@@ -31,5 +31,4 @@ if __name__ == "__main__":
             gron(json_data, base_object)
     else:
         text = json.loads(sys.stdin.read())
-        print(text)
         gron(text, base_object)

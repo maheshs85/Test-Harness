@@ -8,7 +8,7 @@ mswamina@stevens.edu
 https://github.com/maheshs85/Test-Harness
 
 ## Hours Spent
-I estimate that I spent approximately 5-6 hours on this project.
+I estimate that I spent approximately 6-7 hours on this project.
 
 ## Testing
 - Manual testing with various inputs to cover edge cases.
