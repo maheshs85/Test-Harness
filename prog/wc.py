@@ -57,5 +57,5 @@ if __name__ == "__main__":
     else:
         text = sys.stdin.read()
         line_count, word_count, character_count = wc(text)
-        print(f"      {line_count}      {word_count}     {character_count}")
+        print(f"       {line_count}       {word_count}       {character_count}")
         sys.exit(0)

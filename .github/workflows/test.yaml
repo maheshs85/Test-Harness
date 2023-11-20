@@ -10,4 +10,4 @@ jobs:
         python-version: 3.8
 
     - name: Run tests
-      run: python test/test.py
+      run: python3 test.py
